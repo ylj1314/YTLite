@@ -134,6 +134,8 @@
 "NoPromotionCardsDesc" = "Скрывает всплывающее сообщение «Есть реклама» в роликах со спонсорской рекламой.";
 "NoWatermarks" = "Скрыть водяные знаки";
 "NoWatermarksDesc" = "Скрывает значки каналов в плеере.";
+"DisableAmbientMode" = "Отключить «Профессиональное освещение»";
+"DisableAmbientModeDesc" = "Отключает «Профессиональное освещение» как в плеере, так и под ним.";
 "VideoEndTime" = "Показывать время окончания";
 "VideoEndTimeDesc" = "Отображает, в каком часу закончится ролик.";
 "24hrFormat" = "24-часовой формат";
@@ -201,6 +203,8 @@
 "AutoSkipShorts" = "Автопереход к следующему";
 "ShortsOnlyMode" = "Режим Shorts";
 "ShortsOnlyModeDesc" = "Ограничивает функциональность YouTube до отображения видеороликов Shorts";
+"RestrictShorts" = "Ограничить количество";
+"RestrictShortsDesc" = "Ограничивает количество Shorts в ленте до 10-15. Полезно, если хотите избавиться от привычки бесконечно листать ленту.";
 "ShortsProgress" = "Показывать прогресс-бар";
 "ShortsProgressDesc" = "Отображает прогресс-бар в плеере Shorts.";
 "SpeedByLongTap" = "Ускоренное воспроизведение";
@@ -210,6 +214,8 @@
 "PinchToFullscreenShortsDesc" = "Скрывает панель вкладок, тем самым отображает Shorts на весь экран.";
 "ShortsToRegular" = "Shorts как обычные видео";
 "ShortsToRegularDesc" = "Воспроизводит видеоролики Shorts в обычном проигрывателе.";
+"RemoveShortsLive" = "Убрать трансляции";
+"RemoveShortsLiveDesc" = "Удаляет прямые трансляции, исключая их из ленты.";
 "HideShortsLogo" = "Скрыть логотип Shorts";
 "HideShortsLogoDesc" = "Скрывает логотип Shorts, расположенный в верхнем левом углу.";
 "HideShortsSearch" = "Скрыть кнопку «Поиск»";
@@ -299,6 +305,8 @@
 /* SponsorBlock settings */
 "EnableSponsorBlock" = "Активировать";
 "EnableSponsorBlockDesc" = "Активирует расширение SponsorBlock";
+"ShowNotifications" = "Отображать уведомления";
+"ShowNotificationsDesc" = "Показывает уведомления для сегментов, настроенных на автоматическую перемотку. Для сегментов, требующих ручную перемотку, уведомления отображаются всегда.";
 "SegmentsInFeedPlayer" = "Сегменты в ленте";
 "SegmentsInFeedPlayerDesc" = "Отображает цветные сегменты в прогресс-баре плеера в ленте.";
 "SegmentsInMiniPlayer" = "Сегменты в мини-плеере";
@@ -391,6 +399,7 @@
 "Vietnamese" = "Вьетнамская локализация";
 "Arabic" = "Арабская локализация";
 "Turkish" = "Турецкая локализация";
+"Italian" = "Итальянская локализация";
 
 "OpenSourceLibs" = "Библиотеки с исходным кодом";
 

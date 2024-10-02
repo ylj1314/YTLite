@@ -134,6 +134,8 @@
 "NoPromotionCardsDesc" = "Masque la carte \"Inclut des promotions payantes\" dans les vidéos avec promotions.";
 "NoWatermarks" = "Masquer les filigranes";
 "NoWatermarksDesc" = "Masque les filigranes de chaîne dans le lecteur.";
+"DisableAmbientMode" = "Disable ambient mode";
+"DisableAmbientModeDesc" = "Disables ambient mode both in the player and in the area underneath it.";
 "VideoEndTime" = "Afficher l'heure de fin de lecture";
 "VideoEndTimeDesc" = "Ajoute l'heure de fin de lecture de la vidéo à la barre du lecteur.";
 "24hrFormat" = "Format 24 heures";
@@ -201,6 +203,8 @@
 "AutoSkipShorts" = "Auto-skip des Shorts";
 "ShortsOnlyMode" = "Mode Shorts uniquement";
 "ShortsOnlyModeDesc" = "Limite les fonctionnalités de YouTube à la visualisation des Shorts uniquement.";
+"RestrictShorts" = "Limit Shorts";
+"RestrictShortsDesc" = "Limits the number of Shorts in the feed to 10-15. Useful if you want to avoid the habit of endlessly scrolling through the feed.";
 "ShortsProgress" = "Activer la barre de progression";
 "ShortsProgressDesc" = "Affiche la barre de progression dans l'overlay des Shorts.";
 "SpeedByLongTap" = "Augmenter la vitesse de lecture des Shorts";
@@ -210,6 +214,8 @@
 "PinchToFullscreenShortsDesc" = "Gère la visibilité de l'overlay avec les gestes de pincement, affichant les Shorts en mode plein écran.";
 "ShortsToRegular" = "Shorts vers vidéos normales";
 "ShortsToRegularDesc" = "Ouvre les vidéos Shorts en tant que vidéos normales.";
+"RemoveShortsLive" = "Remove live videos";
+"RemoveShortsLiveDesc" = "Removes live videos from the feed.";
 "HideShortsLogo" = "Masquer le logo Shorts";
 "HideShortsLogoDesc" = "Masque le logo Shorts dans le coin supérieur gauche.";
 "HideShortsSearch" = "Masquer le bouton de recherche";
@@ -299,6 +305,8 @@
 /* SponsorBlock settings */
 "EnableSponsorBlock" = "Activer";
 "EnableSponsorBlockDesc" = "Active l'extension SponsorBlock.";
+"ShowNotifications" = "Show notifications";
+"ShowNotificationsDesc" = "Displays notifications for the auto-skipped segments. Notifications for categories that require manual skipping are always shown.";
 "SegmentsInFeedPlayer" = "Afficher les segments dans le feed";
 "SegmentsInFeedPlayerDesc" = "Affiche les segments colorés sur la barre de progression des lecteurs dans le feed.";
 "SegmentsInMiniPlayer" = "Afficher les segments dans le mini-lecteur";
@@ -391,6 +399,7 @@
 "Vietnamese" = "Localisation vietnamienne";
 "Arabic" = "Localisation arabe";
 "Turkish" = "Localisation turque";
+"Italian" = "Italian localization";
 
 "OpenSourceLibs" = "Bibliothèques Open Source";
 

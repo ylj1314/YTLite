@@ -134,6 +134,8 @@
 "NoPromotionCardsDesc" = "プロモーションが含まれている動画の「有料プロモーションを含む」カードを非表示にします。";
 "NoWatermarks" = "ウォーターマークを非表示";
 "NoWatermarksDesc" = "プレーヤーからチャンネルのウォーターマークを非表示にします。";
+"DisableAmbientMode" = "Disable ambient mode";
+"DisableAmbientModeDesc" = "Disables ambient mode both in the player and in the area underneath it.";
 "VideoEndTime" = "再生終了時刻を表示";
 "VideoEndTimeDesc" = "プレーヤー バーにビデオの再生終了時刻を追加します。";
 "24hrFormat" = "24時間フォーマット";
@@ -200,7 +202,9 @@
 "Stop" = "Stop";
 "AutoSkipShorts" = "ショート動画を自動スキップ";
 "ShortsOnlyMode" = "ショートのみモード";
-"ShortsOnlyModeDesc" = "YouTubeの機能をショート動画の視聴のみに制限します。注意:これをOnにすると他の操作は行えません。\n\nショート動画プレーヤーで「2本の指で長押し」すると、ショート動画専用モードを無効にできます。";
+"ShortsOnlyModeDesc" = "YouTubeの機能をショート動画の視聴のみに制限します。注意:これをOnにすると他の操作は行えません。";
+"RestrictShorts" = "Limit Shorts";
+"RestrictShortsDesc" = "Limits the number of Shorts in the feed to 10-15. Useful if you want to avoid the habit of endlessly scrolling through the feed.";
 "ShortsProgress" = "プログレスバーを有効化";
 "ShortsProgressDesc" = "ショートオーバーレイにプログレスバーを表示します。";
 "SpeedByLongTap" = "ショート動画の再生速度を上げる";
@@ -210,6 +214,8 @@
 "PinchToFullscreenShortsDesc" = "ピンチインとピンチアウトのジェスチャでオーバーレイの表示を管理し、ショート動画を全画面モードで表示します。";
 "ShortsToRegular" = "ショートから通常の動画";
 "ShortsToRegularDesc" = "ショート動画を通常の動画として開きます。";
+"RemoveShortsLive" = "Remove live videos";
+"RemoveShortsLiveDesc" = "Removes live videos from the feed.";
 "HideShortsLogo" = "ショートロゴを非表示";
 "HideShortsLogoDesc" = "左上隅のショートロゴを非表示にします。";
 "HideShortsSearch" = "検索ボタンを非表示";
@@ -299,6 +305,8 @@
 /* SponsorBlock settings */
 "EnableSponsorBlock" = "Enable";
 "EnableSponsorBlockDesc" = "Activates the SponsorBlock extension.";
+"ShowNotifications" = "Show notifications";
+"ShowNotificationsDesc" = "Displays notifications for the auto-skipped segments. Notifications for categories that require manual skipping are always shown.";
 "SegmentsInFeedPlayer" = "Display segments in the feed";
 "SegmentsInFeedPlayerDesc" = "Displays colored segments on the progress bar of players in the feed.";
 "SegmentsInMiniPlayer" = "Display segments on the mini-player";
@@ -391,6 +399,7 @@
 "Vietnamese" = "ベトナム語翻訳";
 "Arabic" = "Arabic localization";
 "Turkish" = "Turkish localization";
+"Italian" = "Italian localization";
 
 "OpenSourceLibs" = "オープンソース ライブラリ";
 
